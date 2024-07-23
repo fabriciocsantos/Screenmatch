@@ -1,6 +1,5 @@
 package br.com.project.service;
 
-import br.com.project.model.DadoSerie;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
